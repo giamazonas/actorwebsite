@@ -1,4 +1,4 @@
-# Portfolio - Renée Skibinski 
+# Actor's Website - Renée Skibinski 
 
 
 <br>
@@ -14,24 +14,11 @@
 ___________________
 
 <br>
-Click here to go to my portfolio website <br>[RenéeSkibinski_portfolio]()
+Click here to go to my portfolio website <br>[RenéeSkibinski_website]()
 
 <br>
 <br>
 
-### SCREENSHOTS ⚫️
-___________
-<br>
-
-Welcome to my portfolio! <br>
-
-<img src ="https://i.imgur.com/KBtYn7e.png" alt="Renée's portfolio" width="400"/>
-<br>
-<br>
-
-<img src ="https://i.imgur.com/2McIe3n.png" alt="mobile" width="200"/>
-<br>
-<br>
 
 
 ### TECH USED ⚫️
