@@ -41,6 +41,14 @@ ________________
 ______________________________
 
 <br>
+Headshots by The Actor Headshot<br>
+<img src="assets/Renee_Skibinski2024.jpg" alt="photos" width="100" /><br> 
+<img src="assets/ReneeSkibinski2024.jpg" alt="photos" width="100" /><br> 
+<img src="assets/RSki.jpg" alt="photos" width="100" /><br> 
+<img src="assets/RSki2.jpg" alt="photos" width="100" /><br> 
+from theactorheadshot(dot)com
+<br><br>
+
 Favicon<br>
 <img src="https://i.imgur.com/JsLYmXp.jpg" alt="my favicon" width="100" /><br> 
 from 123rf(dot)com
